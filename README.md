@@ -6,4 +6,4 @@ TODO:
 - DONE Verifica consumi pre-SmartH2O (baseline) per i due gruppi
 - DONE Verifica consumi control group più grande
 - DONE Valutazione risultati per il periodo estivo
-- Verifica significatività statistica risultati
+- DONE Verifica significatività statistica risultati
