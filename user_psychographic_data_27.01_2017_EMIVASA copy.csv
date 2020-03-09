@@ -1,0 +1,273 @@
+user_id;oid;age;building_size;address;household_size;ownership;number_pets;household_has_garden;household_garden_area;household_has_pool;household_pool_volume;second_household;children9;children5_9;children0_4;residency_type;number_bathrooms;number_adults;environmental_attitude;hausehold_has_irrigation_system;house_has_plants;balcony_has_plants;balcony_has_irrigation;number_toilets;number_faucets;number_bathtubs;number_showers;number_tub_showers;number_dishwasher_simple;number_washing_machine_simple;number_ClothesWasher;clothesWasher_efficiency;clothesWasher_ecomode;clothesWasher_timer;number_DishWasher;dishWasher_efficiency;dishWasher_ecomode;dishWasher_timer
+AGM02140298001;1;15;\N;Arquitecto Tolsa 21;85.00;true;2;false;0.00;false;0.00;\N;0;0;0;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;3;0;0;2;1;1;1;A++;1;1;1;A++;1;1
+AGM02000952001;3;\N;\N;\N;\N;\N;\N;\N;\N;\N;\N;\N;\N;\N;\N;\N;\N;\N;\N;\N;\N;\N;\N;2;5;0;0;2;1;1;1;A+++;1;1;1;A+++;1;1
+AGM01631955001;7;50;\N;Salabert, 3;100.00;true;\N;false;0.00;false;0.00;\N;2;\N;\N;Flat;1;2;Medium environmental sensitivity;false;false;false;false;1;1;0;1;0;1;1;1;A+;1;0;1;A+;1;1
+AGM02029317001;8;50;\N;Calle San Juan de la PeA±a, 34 - Pta. 26;66.00;true;3;false;0.00;false;0.00;\N;0;0;0;Flat;1;1;Medium environmental sensitivity;false;false;false;false;1;1;1;1;1;1;1;1;A;1;0;1;A;1;0
+AGM01129597001;9;50;\N;Avda Reino de Valencia, 61;160.00;true;0;false;0.00;false;0.00;\N;0;1;0;Flat;2;3;Medium environmental sensitivity;false;true;false;false;2;2;1;2;1;1;1;1;A++;1;0;1;A++;0;0
+AGM02011609001;10;50;\N;Escultor Jose Capuz 30;75.00;false;0;false;0.00;false;0.00;\N;0;1;0;Flat;1;1;Medium environmental sensitivity;false;true;false;false;1;2;0;0;1;0;1;1;A;0;0;0;0;0;0
+AGM01195879002;12;50;\N;Cl Alfara del patriarca, 23;95.00;true;2;false;0.00;false;0.00;\N;1;0;0;Other;1;2;High environmental sensitivity;false;true;true;false;2;2;0;0;1;0;1;1;A++;1;1;0;0;0;0
+AGM02188048001;15;10;\N;Ma Fernanda d'Ocon,5 B-21;75.00;false;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;2;Medium environmental sensitivity;false;true;false;false;1;2;0;0;1;0;1;1;A++;1;1;0;0;0;0
+AGM02277482001;17;15;\N;Pintor maella 8 - 31;100.00;true;0;false;0.00;false;0.00;\N;0;0;0;Single Family;2;3;High environmental sensitivity;false;false;true;false;2;2;0;2;0;1;1;1;A+++;1;0;1;A+++;1;0
+AGM02055129001;18;11;\N;c/ Villahermosa, 24 4a;85.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;1;Medium environmental sensitivity;false;false;false;false;2;4;1;1;0;1;1;1;A++;1;1;1;A++;1;1
+AGM02150708001;21;12;\N;C/ José Chabas Bordehore 3, blq 5, puerta 27, 46019 Valencia;100.00;false;0;true;\N;true;\N;\N;0;0;1;Flat;2;2;Medium environmental sensitivity;false;true;true;false;0;0;0;0;0;1;1;1;A+;1;1;1;0;1;0
+AGM02247829001;22;2009;\N;Jose Albi n4;160.00;true;2;false;0.00;false;0.00;\N;0;0;1;Flat;3;2;High environmental sensitivity;false;true;true;true;3;3;0;1;0;2;2;1;A+++;1;0;1;A+++;1;0
+AGM01013095003;26;9;\N;Escultor Ricart boix 14 pta 6;150.00;true;0;false;0.00;false;0.00;\N;2;0;0;Flat;2;4;Medium environmental sensitivity;false;false;false;false;2;2;1;1;0;1;1;1;A+;1;0;1;A+;1;0
+AGM02131953002;27;45;\N;C/ Calamocha, 3, pta 4, escalera C;85.00;true;1;false;0.00;false;0.00;\N;0;1;1;Flat;1;2;High environmental sensitivity;false;false;false;false;1;2;0;0;1;1;1;1;A+;1;1;1;A+;1;0
+AGM01564421001;29;23;\N;Avenida Instituto OBrero de Valencia 13 13;90.00;true;1;false;0.00;false;0.00;\N;1;0;0;Flat;2;3;High environmental sensitivity;false;\N;\N;\N;2;2;0;0;2;1;1;1;A;1;0;1;A;1;0
+AGM02030286001;35;13;\N;C/ Dolores marques, 33, esc 3, pta 10;150.00;true;0;false;0.00;false;0.00;\N;2;0;0;Flat;3;2;Medium environmental sensitivity;true;true;true;false;3;3;0;1;2;1;1;1;A++;1;1;1;A++;1;1
+AGM02224732001;36;20;\N;Avda. Primero de mayo, 51;70.00;true;0;false;0.00;false;0.00;\N;0;2;2;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;2;0;1;1;1;1;1;B;0;0;1;B;1;0
+AGM02138806001;37;\N;\N;\N;\N;true;0;false;0.00;false;0.00;\N;0;0;0;Single Family;\N;1;Medium environmental sensitivity;false;false;false;false;1;1;0;1;0;0;1;1;A+;0;0;0;0;0;0
+AGM01282179001;38;\N;\N;\N;70.00;true;1;false;0.00;false;0.00;\N;\N;\N;\N;Flat;1;2;High environmental sensitivity;false;true;true;false;1;4;0;1;0;0;1;1;A++;1;0;0;0;0;0
+AGM01147430001;39;44;\N;Isla Cabrera, 45-7-38;80.00;true;1;false;0.00;false;0.00;\N;0;0;0;Flat;1;2;High environmental sensitivity;false;false;false;false;1;1;0;1;0;1;1;1;A+++;1;1;1;A+++;0;0
+AGM02317265001;41;60;\N;Dr. Manuel Candela;70.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;2;Medium environmental sensitivity;false;false;false;false;1;2;0;1;1;0;1;1;A+++;1;0;0;0;0;0
+AGM02028320001;43;47;\N;pedro cabanes 75-4;74.00;true;0;false;0.00;false;0.00;\N;1;0;0;Flat;1;3;High environmental sensitivity;false;false;false;false;1;1;1;1;1;1;1;1;0;1;0;1;A+++;1;0
+AGM01588026002;44;50;\N;caller rosario no95-4 valencia;70.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;2;Medium environmental sensitivity;false;true;true;false;1;1;0;1;0;1;1;1;A++;1;0;1;A+;0;0
+AGM01136673001;47;60;\N;Calle de Cádiz ;70.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;4;Medium environmental sensitivity;false;false;false;false;1;1;0;1;0;0;1;1;A;1;0;0;0;0;0
+AGM01111572002;48;25;\N;vicente sancho tello nÂo23;300.00;true;1;false;0.00;true;5.00;\N;0;0;0;Flat;2;3;Medium environmental sensitivity;true;true;true;true;3;6;0;1;1;1;1;1;A++;1;1;1;E;0;0
+AGM01070590002;49;\N;\N;\N;\N;\N;1;\N;\N;\N;\N;\N;0;0;0;\N;\N;3;Medium environmental sensitivity;\N;\N;\N;\N;1;1;0;1;0;1;1;1;A+;1;0;1;A+;1;0
+AGM01141230001;52;33;\N;\N;120.00;true;0;false;0.00;false;0.00;\N;2;0;0;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;3;0;0;2;1;1;1;A++;1;1;1;A;0;0
+AGM01315359001;54;25;\N;Av Valladolid, 20 dup E. A-14 Valencia;90.00;true;0;false;0.00;false;0.00;\N;0;1;0;Flat;2;2;High environmental sensitivity;false;true;true;false;2;3;0;1;1;1;1;1;A+++;0;1;1;A++;0;0
+AGM02246356001;56;1957;\N;Rodrigo de Osona 11 6;68.00;false;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;2;High environmental sensitivity;false;\N;\N;\N;1;1;0;1;1;0;1;1;A++;1;1;0;0;0;0
+AGM01156969001;60;46;\N;General Urrutia 45;69.00;true;0;false;0.00;false;0.00;\N;0;2;0;Flat;1;4;Medium environmental sensitivity;false;false;false;false;1;1;0;0;1;0;1;1;A+++;1;1;0;0;0;0
+AGM02191576001;61;10;\N;C/ La Marina Baixa 3;120.00;false;0;false;0.00;true;1000.00;\N;2;1;0;Flat;2;2;High environmental sensitivity;false;false;false;false;2;2;1;1;0;1;1;1;A+++;1;0;1;A+++;1;0
+AGM02008124001;63;15;\N;Urb Montemar 22;160.00;true;0;true;30.00;false;0.00;\N;2;0;0;Single Family;3;2;Medium environmental sensitivity;true;true;false;false;3;5;0;1;2;1;1;1;A+++;1;0;1;A+++;1;0
+AGM02000081001;67;40;\N;Calle Cofrentes 24 pta 21;55.00;true;2;false;0.00;false;0.00;\N;0;1;0;Flat;1;3;Medium environmental sensitivity;false;true;false;false;1;2;0;1;1;0;1;1;A++;1;1;0;0;0;0
+AGM01735185001;68;30;\N;Plaza Zumalacarregui, 5 Iz 30;100.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;3;Medium environmental sensitivity;false;false;true;false;2;2;0;0;2;1;1;1;A++;1;1;1;A++;1;1
+AGM02179459001;71;20;\N;C/ Padre Tomás Montanana, 14 - 2oB;70.00;false;0;false;0.00;false;0.00;\N;1;0;0;Flat;2;2;Low environmental sensitivity;false;false;false;false;2;4;0;1;1;1;1;1;A;1;0;1;B;1;0
+AGM01519690001;72;\N;\N;\N;\N;\N;\N;\N;\N;\N;\N;\N;\N;\N;\N;\N;\N;\N;\N;\N;\N;\N;\N;3;0;0;2;0;0;1;1;A++;0;0;0;0;0;0
+AGM01044679001;77;60;\N;SAN JOSÉ DE LA MONTANA 5 - 3a  VALENCIA;114.00;true;0;false;0.00;false;0.00;\N;0;2;0;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;3;0;1;2;1;1;1;A++;1;1;1;A++;1;0
+AGM01767758005;78;50;\N;Plaza de la Policia Local 1;130.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;4;Medium environmental sensitivity;false;false;false;false;2;3;0;1;1;1;1;1;A;1;0;1;A;1;0
+AGM01069387002;79;30;\N;gimenez y costa;250.00;true;2;true;20.00;false;0.00;\N;0;0;0;Single Family;3;4;High environmental sensitivity;false;true;true;false;3;3;1;2;1;1;1;1;A+++;1;0;1;A++;1;0
+AGM01493592002;82;70;\N;C/ Sueca 56-5o-9a;90.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;2;Medium environmental sensitivity;false;false;false;false;1;2;0;1;0;1;1;1;A+++;1;0;1;A++;1;0
+AGM01100294001;84;30;\N;camino nuevo de picana 49 21;113.00;true;0;true;5.00;false;0.00;\N;0;0;0;Flat;2;2;Medium environmental sensitivity;false;true;true;false;1;1;1;1;1;1;1;1;A++;1;0;1;A++;1;0
+AGM02081821001;85;43;\N;plaza segovia;80.00;true;1;false;0.00;false;0.00;\N;1;0;0;Flat;1;2;High environmental sensitivity;false;false;false;false;1;1;1;1;0;0;1;1;A++;1;0;0;0;0;0
+AGM01702725001;87;20;\N;Leandro de Saralegui N1 Esc 1 Pta 3A;58.00;true;0;false;0.00;false;0.00;\N;0;0;1;Single Family;1;2;High environmental sensitivity;false;false;false;false;2;2;0;1;1;1;1;1;A+;1;1;1;A+;1;1
+AGM01553054002;88;13;\N;Antonio Suárez, 26 pta. 12;110.00;true;0;true;2000.00;false;0.00;\N;0;0;1;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;2;0;1;1;1;1;1;A+;1;1;1;A+;1;1
+AGM02276996001;92;40;\N;Torres 12;96.00;false;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;3;Medium environmental sensitivity;false;false;true;false;2;2;0;1;1;0;1;1;A+;0;1;0;0;0;0
+AGM02239605002;93;70;\N;poeta mas i ros 37;105.00;false;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;3;Medium environmental sensitivity;false;true;true;false;2;2;0;2;0;1;1;1;A+;1;0;1;A++;0;1
+AGM01769972001;94;17;\N;Santa Rosa,10;140.00;true;1;false;0.00;false;0.00;\N;0;0;2;Flat;2;2;Medium environmental sensitivity;false;false;true;true;2;2;0;1;1;1;1;1;A+;1;1;1;A+;1;0
+AGM02135770001;97;50;\N;Carreres Puchalt 6, 11a;140.00;true;0;false;0.00;false;0.00;\N;2;1;0;Flat;2;2;Low environmental sensitivity;false;false;false;false;2;1;0;0;2;1;1;1;0;1;0;1;0;1;0
+AGM02176445001;98;10;\N;palma 4, 2;47.00;false;1;false;0.00;false;0.00;\N;0;0;0;Flat;1;1;Medium environmental sensitivity;false;false;true;false;1;2;0;0;1;0;1;1;A+;1;1;0;0;0;0
+AGM02075114001;99;10;\N;Av. Joan XXIII, 46-15;75.00;true;0;false;0.00;false;0.00;\N;0;1;0;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;2;1;1;0;1;1;1;A+++;1;0;1;A+++;1;0
+AGM01770946001;100;35;\N;Maestro Rodrigo, 21 - 13;115.00;true;0;false;0.00;false;0.00;\N;0;1;1;Flat;2;4;Medium environmental sensitivity;false;false;false;false;2;2;1;1;0;1;1;1;A++;1;1;1;A;1;0
+AGM01001047001;101;30;\N;pintor stolz 70;150.00;true;1;false;0.00;false;0.00;\N;0;0;0;Flat;2;4;High environmental sensitivity;false;false;true;false;2;2;1;1;0;1;1;1;A+++;1;1;1;A+++;1;1
+AGM02061373001;103;11;\N;C/Poeta Artola, 11;65.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;1;High environmental sensitivity;false;false;false;false;2;2;0;0;2;0;1;1;A+;1;1;0;0;0;0
+AGM01122880001;104;70;\N;taquigrafo marti;74.00;false;\N;false;0.00;false;0.00;\N;1;1;\N;Flat;1;4;Low environmental sensitivity;false;false;false;false;1;2;0;0;1;0;1;1;;1;1;0;0;0;0
+AGM02020132002;106;17;\N;Pedro Cabanes 1-4;112.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;2;High environmental sensitivity;false;false;true;false;2;3;0;2;2;1;1;1;A+;1;1;1;A+;1;0
+AGM02122388001;107;40;\N;Calle Reus ;50.00;true;1;false;0.00;false;0.00;\N;1;0;0;Flat;1;1;Medium environmental sensitivity;false;true;true;false;1;3;0;1;0;1;1;1;A+;1;0;1;A+;1;1
+AGM01715911001;108;16;\N;C/ Ciudad de Melilla 10, p.9;90.00;true;1;false;0.00;false;0.00;\N;2;0;0;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;2;0;1;1;1;1;1;A++;1;1;1;A;1;1
+AGM02058819001;110;12;\N;Samuel Ros, 49 Esc 1 7 B;120.00;true;0;false;0.00;true;300.00;\N;2;0;0;Flat;2;4;High environmental sensitivity;false;true;true;false;2;2;0;0;2;1;1;1;A++;1;1;1;A++;1;1
+AGM01672482001;111;16;\N;Calle Doctor Perez Felliu, no 6-28a;90.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;3;High environmental sensitivity;false;true;false;false;2;3;0;2;0;0;1;1;A+++;1;1;0;0;0;0
+AGM01566549003;113;11;\N;plaza jesus 6-6;110.00;false;0;false;0.00;false;0.00;\N;2;\N;\N;Flat;1;2;Medium environmental sensitivity;false;false;false;false;2;2;0;1;0;1;1;1;A++;1;0;1;A++;1;0
+AGM01191063002;114;34;\N;periodista gil sumbiela;100.00;false;0;false;0.00;false;0.00;\N;0;0;2;Flat;1;2;High environmental sensitivity;false;false;false;false;1;1;0;0;1;1;1;1;A++;1;1;1;A++;1;1
+AGM01419166003;115;90;\N;Lo rat Penat 14;160.00;true;3;true;15.00;false;0.00;\N;0;0;0;Single Family;4;4;Medium environmental sensitivity;true;true;true;true;4;6;0;3;0;1;1;1;A++;1;1;1;A++;1;1
+AGM02018383001;116;13;\N;Campaners n24 pta 30;90.00;true;1;false;0.00;false;0.00;\N;0;0;0;Flat;2;2;Medium environmental sensitivity;false;false;true;false;2;2;0;0;2;1;1;1;A++;1;0;1;A++;1;0
+AGM02091994001;117;55;\N;Avd/ Primado Reig;56.00;true;2;false;0.00;false;0.00;\N;0;0;0;Flat;1;1;Medium environmental sensitivity;false;true;false;false;1;1;0;1;0;0;1;1;A+;0;0;0;0;0;0
+AGM02214574001;118;15;\N;avda de Francia;100.00;true;1;false;0.00;true;\N;\N;3;\N;\N;Flat;2;2;Medium environmental sensitivity;false;true;true;false;2;4;0;0;2;1;1;1;A++;0;1;1;B;0;0
+AGM01768343001;119;15;\N;Paseo Alameda, 46;175.00;true;1;false;0.00;false;0.00;\N;3;0;0;Other;3;2;Medium environmental sensitivity;true;true;true;true;3;5;0;0;2;1;1;1;A+++;1;1;1;A+++;1;0
+AGM02167657001;123;50;\N;c/ conserva, 20-8;64.00;true;1;false;0.00;false;0.00;\N;1;\N;\N;Flat;1;1;Medium environmental sensitivity;false;true;false;false;1;1;0;0;1;1;1;1;A;1;0;1;A;1;0
+AGM02259744001;125;30;\N;\N;120.00;true;1;false;0.00;false;0.00;\N;0;0;0;Flat;2;2;Low environmental sensitivity;false;false;false;false;2;3;0;1;0;1;1;1;A+;1;1;1;A+;1;0
+AGM02120870001;128;15;\N;C/ PORTAL VALLDIGNA 20 4;60.00;false;1;false;0.00;false;0.00;\N;0;0;0;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;2;1;1;0;0;1;1;A+++;1;1;0;0;0;0
+AGM01118840001;130;35;\N;Felix Pizcueta, 25 1o pta 2;150.00;true;1;true;20.00;false;0.00;\N;0;0;0;Flat;2;3;High environmental sensitivity;true;true;false;false;2;3;0;2;0;0;1;1;A++;1;0;0;0;0;0
+AGM01622915001;132;1997;\N;Fray Pedro Vives num. 21 pta 12;90.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;2;1;1;0;0;1;1;A+;1;0;0;0;0;0
+AGM02199538001;133;40;\N;Pérez Galdós;137.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;3;Medium environmental sensitivity;false;false;false;false;2;2;0;1;1;1;1;1;A++;0;1;1;A++;1;1
+AGM02019362002;136;40;\N;Artes y Oficios 40, 1o - 4;108.00;true;0;false;0.00;false;0.00;\N;2;1;0;Flat;2;2;Medium environmental sensitivity;false;false;true;false;2;5;0;1;1;1;1;1;A+++;1;1;1;A++;1;1
+AGM01273289001;137;10;\N;plaza de Espana,1;150.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;2;0;2;0;1;1;1;A++;0;1;1;A++;0;1
+AGM02072999001;138;16;\N;Rio Escalona 25;120.00;true;0;false;0.00;false;0.00;\N;2;1;0;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;2;0;0;2;1;1;1;A;1;0;1;B;1;0
+AGM02103589001;140;35;\N;Maestro Guerrero & A 11;100.00;true;0;false;0.00;false;0.00;\N;1;1;0;Flat;2;2;Medium environmental sensitivity;false;true;false;false;2;2;1;1;0;1;1;1;A++;1;1;1;A++;1;1
+AGM02333618001;142;16;\N;c/ Carlos Caballé Lancry;90.00;true;1;false;0.00;false;0.00;\N;0;0;0;Flat;2;2;High environmental sensitivity;false;true;true;false;2;2;0;0;2;0;1;1;A+++;1;1;0;0;0;0
+AGM01505983002;143;40;\N;calle miguel servet 11-22a;40.00;true;0;false;0.00;false;0.00;\N;1;0;0;Flat;1;1;Medium environmental sensitivity;false;false;false;false;1;2;0;1;0;0;1;1;A+;0;0;0;0;0;0
+AGM02191621001;146;15;\N;PASEO ALAMEDA 49;100.00;true;0;false;0.00;false;0.00;\N;0;0;1;Flat;2;2;Medium environmental sensitivity;false;\N;\N;\N;2;2;0;1;1;1;1;1;A+++;1;1;1;A++;1;1
+AGM01177216001;147;40;\N;Calle Gongora, 9;90.00;true;1;false;0.00;false;0.00;\N;0;0;0;Flat;1;2;Medium environmental sensitivity;false;false;true;false;1;1;0;0;1;0;1;1;;0;0;0;0;0;0
+AGM01547785001;148;24;\N;ecuador 101;90.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;3;Medium environmental sensitivity;false;false;true;false;2;2;2;2;2;0;1;1;A+++;1;0;0;0;0;0
+AGM02024246002;149;13;\N;calle uruguay;135.00;true;0;false;0.00;false;0.00;\N;1;0;0;Flat;2;2;Medium environmental sensitivity;false;true;false;false;2;2;0;1;1;1;1;1;A+;1;0;1;A++;1;0
+AGM02282841001;150;50;\N;avenida gran via ramon y cajal ;110.00;false;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;1;Medium environmental sensitivity;false;false;false;false;2;2;0;1;0;1;1;1;A++;1;1;1;A+++;1;1
+AGM02007506001;153;13;\N;C/Almacera 10-4-8B;89.00;true;2;false;0.00;true;\N;\N;1;0;\N;Flat;2;2;High environmental sensitivity;false;true;true;false;2;2;0;1;1;1;1;1;A++;1;1;1;A+++;1;1
+AGM01147576001;157;39;\N;Calle Isla Cabrera 65 2;107.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;3;Medium environmental sensitivity;false;false;false;false;2;2;1;1;1;0;1;1;A;1;0;0;0;0;0
+AGM02003609001;158;21;\N;Escultor Vicente Rodilla ;60.00;true;0;false;0.00;false;0.00;\N;0;0;1;Flat;1;2;High environmental sensitivity;false;false;false;false;1;1;0;0;1;1;1;1;A;1;0;1;B;1;1
+AGM02090781001;159;10;\N;c/ puebla larga no 3 pta 10;98.00;false;6;false;0.00;false;0.00;\N;0;0;0;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;2;0;1;1;0;1;1;;0;1;0;0;0;0
+AGM01733287001;160;14;\N;\N;150.00;true;0;false;0.00;false;0.00;\N;1;1;1;Flat;2;2;High environmental sensitivity;false;false;false;false;2;2;0;0;2;1;1;1;A++;1;1;1;A++;1;1
+AGM02028888002;161;15;\N;Calle Luis Bolinches Compan;125.00;true;0;false;0.00;true;\N;\N;1;1;\N;Flat;2;2;High environmental sensitivity;false;false;false;false;2;2;0;0;2;1;1;1;0;1;0;1;0;0;0
+AGM02246510002;163;20;\N;C/ Antonio Suarez, 23, 10;100.00;false;1;false;0.00;false;0.00;\N;0;0;0;Flat;2;2;High environmental sensitivity;false;true;false;false;2;2;0;0;2;1;1;1;A+;1;1;1;A+;1;1
+AGM02089583001;164;8;\N;Calle Salvador Lluch 20-14;138.00;true;3;false;0.00;false;0.00;\N;0;2;0;Flat;3;2;Medium environmental sensitivity;false;false;false;false;3;3;0;2;1;1;1;1;A++;1;1;1;A+++;1;1
+AGM01087391001;165;30;\N;C/ Carteros 52 pta.3;130.00;true;0;false;0.00;false;0.00;\N;2;2;2;Flat;2;2;High environmental sensitivity;false;true;true;false;2;3;0;1;0;1;1;1;A++;1;0;1;A++;1;1
+AGM02251331001;166;2005;\N;Calle Alta 50-11;87.00;false;0;false;0.00;false;0.00;\N;0;0;3;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;3;0;2;2;1;1;1;A++;1;1;1;A++;1;1
+AGM02074896001;167;50;\N;Calle Luis lamarca;59.00;true;1;false;0.00;false;0.00;\N;\N;\N;\N;Flat;1;2;Medium environmental sensitivity;false;false;false;false;0;0;0;0;0;1;1;1;0;0;1;1;0;0;1
+AGM02075988002;176;10;\N;Av// Perez galdos;160.00;true;0;false;0.00;false;0.00;\N;0;0;1;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;4;0;1;1;1;1;1;A+++;1;1;1;A+++;1;1
+AGM02325670001;180;20;\N;Plaza Zumalacarregui, 5, esc 1, pta 24;120.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;2;High environmental sensitivity;false;false;false;false;2;3;1;1;0;1;1;1;A++;1;0;1;A++;1;0
+AGM02198867001;181;5;\N;FRANCISCO LLACER PLA,3-28;60.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;1;Medium environmental sensitivity;false;false;false;false;1;1;0;0;1;0;1;1;A+++;1;0;0;0;0;0
+AGM02070537001;183;10;\N;Av. Francia 12;150.00;false;0;false;0.00;true;60.00;\N;1;1;0;Flat;2;2;Medium environmental sensitivity;false;true;true;false;2;2;0;0;2;1;1;1;A++;1;0;1;A++;1;0
+AGM02312929001;186;49;\N;AV CID, 32, 1, 2;124.00;false;2;false;0.00;false;0.00;\N;0;0;0;Flat;2;1;Medium environmental sensitivity;false;false;false;false;2;2;0;1;0;0;1;1;A+;1;1;0;0;0;0
+AGM02140462002;188;5;\N;C/ Nicolau Primitiu Gómez Serrano, no 22 esc Izq, Pta 5;90.00;false;1;false;0.00;false;0.00;\N;0;0;0;Flat;2;1;Medium environmental sensitivity;false;false;false;false;2;2;1;1;0;1;1;1;A+;1;0;1;A+;1;0
+AGM01415308001;190;1971;\N;Ctra. Barcelona, 66 3;73.00;true;1;false;0.00;false;0.00;\N;0;0;0;Flat;1;1;Medium environmental sensitivity;false;false;false;false;1;1;0;0;1;0;1;1;A++;1;1;0;0;0;0
+AGM02306870001;191;1962;\N;s juan bosco;56.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;1;High environmental sensitivity;false;false;false;false;1;1;0;0;1;0;1;1;A+;1;0;0;0;0;0
+AGM02288521001;193;50;\N;Cuenca Tramoyeres, 2.;50.00;false;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;2;Medium environmental sensitivity;false;false;true;false;1;3;0;1;0;0;1;1;A;1;0;0;0;0;0
+AGM01249296001;194;25;\N;mistral;85.00;true;0;false;0.00;false;0.00;\N;1;0;0;Flat;1;3;High environmental sensitivity;false;true;true;false;1;1;0;1;0;1;1;1;A++;1;1;1;A+++;1;1
+AGM02335903001;196;30;\N;Calle Chiva 32-1-1;170.00;false;1;true;3.00;false;0.00;\N;1;1;1;Flat;2;2;High environmental sensitivity;false;true;true;false;2;2;0;2;0;1;1;1;A+++;1;1;1;A+++;1;1
+AGM01292922001;197;40;\N;poeta mas y ros .;70.00;true;0;false;0.00;false;0.00;\N;2;0;0;Flat;1;4;Medium environmental sensitivity;false;false;false;false;1;0;0;1;0;0;1;1;A+++;1;0;0;0;0;0
+AGM01081176001;199;8;\N;Vicente Tormo Alfonso, 2 A-18;135.00;true;\N;false;0.00;false;0.00;\N;\N;1;\N;Flat;2;2;Medium environmental sensitivity;false;false;true;false;2;2;0;1;1;1;1;1;A+++;1;1;1;A++;0;1
+AGM01215964002;200;18;\N;C/ Aben Amir, 7;136.00;true;2;true;40.00;false;0.00;\N;0;0;0;Single Family;2;2;High environmental sensitivity;true;true;true;false;2;2;0;0;1;1;1;1;A+++;0;1;1;0;1;0
+AGM02289684001;202;7;\N;Avenida Maestro Rodrigo, 107;85.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;1;Medium environmental sensitivity;false;false;true;false;2;3;0;1;1;1;1;1;A+++;1;1;1;A+++;1;1
+AGM01052705001;203;30;\N;calle Palleter, 7 pta.9;130.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;2;High environmental sensitivity;false;false;true;false;2;2;0;2;2;1;1;1;A++;1;1;1;0;0;0
+AGM02317116001;205;70;\N;calle palleter 43/14;130.00;false;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;4;High environmental sensitivity;false;false;true;false;2;2;1;1;0;0;1;1;A+;1;1;0;0;0;0
+AGM01004314001;210;28;\N;plaza zumalacarregui, 6;90.00;true;1;false;0.00;false;0.00;\N;1;0;0;Flat;2;4;Medium environmental sensitivity;false;true;false;false;2;4;0;0;2;1;1;1;A+;1;1;1;A++;1;0
+AGM02026161001;211;13;\N;C/ Xiprers 33;250.00;true;0;false;0.00;false;0.00;\N;0;1;2;Single Family;4;2;Low environmental sensitivity;false;true;true;false;4;4;0;1;2;1;1;1;A+;0;0;1;D;0;0
+AGM02163283001;216;70;\N;C/Rodrigo de Pertegas, 41;74.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;1;Medium environmental sensitivity;false;false;true;false;1;1;0;1;0;1;1;1;A++;1;0;1;A++;1;0
+AGM02092434001;217;30;\N;calle belgica 20, 41;100.00;true;0;false;0.00;false;0.00;\N;0;0;2;Flat;2;2;High environmental sensitivity;false;false;true;false;2;2;1;1;0;0;1;1;A+++;0;1;0;0;0;0
+AGM01277279001;220;30;\N;AV PERIS Y VALERO, 63, puerta 38;120.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;2;High environmental sensitivity;false;true;false;false;2;2;0;2;0;0;1;1;A++;1;1;0;0;0;0
+AGM02078548001;221;65;\N;avda. perez galdos;135.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;2;High environmental sensitivity;false;false;false;false;2;2;0;1;0;1;1;1;A+;1;1;1;A+;1;1
+AGM01653638001;227;18;\N;C/ Gobernador Viejo, 5, 2, 5;80.00;false;0;false;0.00;false;0.00;\N;1;0;0;Flat;2;1;High environmental sensitivity;false;false;false;false;2;3;0;0;2;1;1;1;A+++;1;1;1;A++;0;0
+AGM02023028001;229;35;\N;Calle Aben al Abbar 6 4 32;90.00;false;0;false;0.00;false;0.00;\N;1;1;0;Flat;2;2;High environmental sensitivity;false;false;false;false;2;2;0;2;0;0;1;1;A;1;1;0;0;0;0
+AGM02009831001;230;50;\N;Avda Baleares 35 - 11;80.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;3;Medium environmental sensitivity;false;false;false;false;1;1;0;1;0;1;0;0;0;0;0;1;A+;1;1
+AGM02077000001;232;90;\N;C/ Mendoza, 6;85.00;true;2;false;0.00;false;0.00;\N;0;0;0;Flat;2;4;Medium environmental sensitivity;false;\N;\N;\N;2;2;0;1;1;1;1;1;A+;1;1;1;A;1;1
+AGM01173876001;233;29;\N;Avda. General Aviles,42-5a;150.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;2;0;2;0;1;1;1;A++;1;0;1;A+;1;0
+AGM01583656001;234;20;\N;Carretera Malilla 79-25;90.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;2;Medium environmental sensitivity;false;false;true;false;2;3;2;2;2;0;1;1;A+;1;1;0;0;0;0
+AGM02065074001;235;\N;\N;\N;\N;\N;0;\N;\N;\N;\N;\N;0;0;0;\N;\N;1;Medium environmental sensitivity;\N;\N;\N;\N;1;1;0;1;0;0;1;1;A;0;0;0;0;0;0
+AGM02345170001;236;50;\N;Avda Dr Peset Aleixandre 124;93.00;true;0;false;0.00;false;0.00;\N;0;0;1;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;2;0;1;0;1;1;1;A++;1;1;1;A++;1;0
+AGM02236718001;239;30;\N;C\Impresor Lambert Palmart N12 P41;97.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;3;0;1;1;1;1;1;A+;1;1;1;A;1;0
+AGM01706418001;243;1955;\N;MICER MASCO, 11;100.00;false;1;false;0.00;false;0.00;\N;0;0;0;Flat;2;2;Medium environmental sensitivity;false;\N;\N;\N;1;3;1;0;1;1;1;1;A;0;1;1;A;1;0
+AGM01047360001;245;45;\N;El Palleter, 24 - 14;125.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;3;High environmental sensitivity;false;false;false;false;2;2;0;1;0;1;1;1;A++;1;0;1;A+;1;0
+AGM01213662001;248;50;\N;Avd. Juan XXIII, 10-7-44;90.00;true;1;false;0.00;false;0.00;\N;0;1;1;Single Family;1;2;Medium environmental sensitivity;false;false;false;false;1;1;0;1;1;0;1;1;A+++;1;0;0;0;0;0
+AGM02221988001;249;8;\N;federico alcacer aguilar, 60;80.00;true;0;false;0.00;false;0.00;\N;0;0;1;Flat;2;2;Medium environmental sensitivity;false;true;false;false;2;2;0;1;1;1;1;1;A++;1;1;1;A++;1;0
+AGM02255236001;252;45;\N;gonzalo famiro pedrer 16;75.00;true;1;false;0.00;false;0.00;\N;4;0;0;Flat;1;2;Low environmental sensitivity;false;false;false;false;1;2;0;1;0;0;1;1;A;1;0;0;0;0;0
+AGM02163595001;257;1;\N;calle;1.00;false;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;0;High environmental sensitivity;false;true;true;false;0;0;0;0;0;0;1;1;A;1;0;0;0;0;0
+AGM02007395001;264;50;\N;C/Cuba 49-14;87.00;true;0;false;0.00;false;0.00;\N;2;0;1;Flat;1;2;Medium environmental sensitivity;false;true;true;false;1;2;0;0;1;1;1;1;A+++;1;1;1;A+;1;1
+AGM02306741001;267;1960;\N;poeta altet,5;60.00;false;1;false;0.00;false;0.00;\N;0;0;0;Flat;1;1;Medium environmental sensitivity;false;false;false;false;1;2;0;1;0;0;1;1;A+++;1;0;0;0;0;0
+AGM02027183001;268;85;\N;Joaquín Costa;120.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;3;0;1;1;0;1;1;A++;1;0;0;0;0;0
+AGM02168932001;270;58;\N;San Jose de la Montana, 26o-1a;110.00;false;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;1;High environmental sensitivity;false;false;false;false;2;1;0;1;0;0;1;1;C;0;0;0;0;0;0
+AGM01564173002;271;2009;\N;Barraque del Figuero,1 pta 54;100.00;true;1;false;0.00;false;0.00;\N;2;1;0;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;4;0;1;1;1;1;1;A+;1;0;1;A++;1;0
+AGM02153275001;272;7;\N;Arolas, 4 pta 2;63.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;2;Medium environmental sensitivity;false;true;true;false;1;1;0;0;1;0;1;1;A+;1;0;0;0;0;0
+AGM01006454001;275;45;\N;Valencia;95.00;true;3;false;0.00;false;0.00;\N;0;2;0;Flat;1;2;High environmental sensitivity;false;false;true;false;1;1;0;1;0;1;1;1;A++;1;1;1;A;1;1
+AGM01767758001;280;14;\N;Plaza de la Policia Local 1;80.00;true;0;false;0.00;false;0.00;\N;0;1;1;Flat;2;2;High environmental sensitivity;false;true;true;true;2;2;0;1;1;1;1;1;A;1;0;1;A;1;0
+AGM01577133001;281;20;\N;Plaza Poeta Vicente Gaos 5 15 A;110.00;true;0;false;0.00;false;0.00;\N;1;0;0;Flat;2;1;High environmental sensitivity;false;false;false;false;2;4;0;0;2;1;1;1;A+++;1;0;1;A+++;1;0
+AGM02127141001;283;25;\N;vicente gaoss 14;150.00;false;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;1;Medium environmental sensitivity;false;false;false;false;2;2;0;2;0;0;1;1;A;0;1;0;0;0;0
+AGM02288493001;284;60;\N;Calle bilbao 47, 6;80.00;true;0;false;0.00;false;0.00;\N;0;0;1;Single Family;1;2;Medium environmental sensitivity;false;false;false;false;1;1;0;1;0;1;1;1;A++;1;0;1;A+;0;0
+AGM01031367001;285;200;\N;CALLE ALTA 28-4;60.00;false;0;false;0.00;false;0.00;\N;1;0;0;Flat;1;3;High environmental sensitivity;false;false;true;false;2;2;3;2;1;1;1;1;A+++;1;0;1;A+++;1;0
+AGM01006678001;286;40;\N;Ceramista Ros, 16;75.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;3;Medium environmental sensitivity;false;false;false;false;1;1;0;0;1;1;1;1;D;1;0;1;A;0;0
+AGM01681662001;287;1998;\N;C/  Andilla;88.00;true;0;false;0.00;false;0.00;\N;1;1;0;Flat;2;2;Medium environmental sensitivity;false;\N;\N;\N;2;3;0;1;1;1;1;1;A+;1;0;1;A+;1;0
+AGM02043671001;288;45;\N;bernabé garcía;80.00;true;0;false;0.00;false;0.00;\N;0;0;0;Single Family;2;2;High environmental sensitivity;false;false;false;false;2;2;0;1;2;0;1;1;A+;1;1;0;0;0;0
+AGM01284383001;290;50;\N;campoamor 53-28;120.00;true;1;false;0.00;false;0.00;\N;\N;\N;\N;Single Family;1;2;Medium environmental sensitivity;false;false;false;false;2;2;0;1;1;1;1;1;A++;1;0;1;A++;1;0
+AGM02189700001;292;98;\N;Calle de San José de Calasanz;68.00;false;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;1;Medium environmental sensitivity;false;false;false;false;1;1;0;1;0;0;1;1;A++;1;0;0;0;0;0
+AGM02059969001;293;\N;\N;\N;\N;true;0;false;0.00;false;0.00;\N;1;\N;\N;Flat;\N;2;High environmental sensitivity;false;true;true;false;2;2;1;1;1;0;1;1;A++;1;1;0;0;0;0
+AGM01276331002;294;23;\N;Luis Milán no 2, 1a;150.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;2;High environmental sensitivity;false;false;false;false;2;2;0;0;2;1;1;1;A++;1;0;1;A++;0;0
+AGM01195767003;297;\N;\N;\N;\N;\N;0;\N;\N;\N;\N;\N;0;0;0;\N;\N;3;Low environmental sensitivity;\N;\N;\N;\N;2;2;0;2;1;0;1;1;A;1;0;0;0;0;0
+AGM01063908001;298;20;\N;145;200.00;true;0;true;50.00;true;30.00;\N;0;0;0;Single Family;4;3;Medium environmental sensitivity;false;false;false;false;4;4;0;3;0;1;1;1;A+;0;0;1;A+;0;0
+AGM02084290001;299;85;\N;C/ Ernesto Anastasio 94;65.00;true;0;false;0.00;false;0.00;\N;0;1;1;Flat;2;2;Medium environmental sensitivity;false;false;true;false;2;2;0;1;1;1;1;1;0;1;1;1;0;1;0
+AGM02046737001;300;45;\N;AVD DR PESET ALEIXANDRE 63 2;95.00;true;2;false;0.00;false;0.00;\N;0;1;1;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;3;0;1;1;1;1;1;A++;0;0;1;A+++;0;0
+AGM01648487001;301;20;\N;c./ ingeniero vicente pichó;90.00;true;0;false;0.00;false;0.00;\N;2;0;0;Single Family;2;2;Medium environmental sensitivity;false;false;false;false;2;2;0;0;2;1;1;1;A++;0;0;1;A+;1;0
+AGM01702725002;302;10;\N;Avenida JUAN XXXIII N43 Esc B Pta 9B;90.00;true;2;false;0.00;true;60.00;\N;0;0;1;Flat;2;2;Medium environmental sensitivity;false;true;false;false;2;2;0;1;1;1;1;1;A+;1;1;1;A+;1;1
+AGM01116153003;303;54;\N;Calle Pedro de Luna, 20-5-10;54.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;1;High environmental sensitivity;false;false;false;false;1;1;0;1;0;1;1;1;F;0;0;1;F;0;1
+AGM01276420001;305;30;\N;AV.ARAGON 36 (VALENCIA);90.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;3;Medium environmental sensitivity;false;false;false;false;2;2;0;1;0;0;1;1;A++;1;0;0;0;0;0
+AGM01731233001;309;30;\N;calle escultor Mora Cirujeda nÂo10 pta 31;80.00;true;0;false;0.00;false;0.00;\N;0;1;0;Flat;2;3;High environmental sensitivity;false;\N;\N;\N;2;2;0;1;1;1;1;1;B;1;1;1;C;1;0
+AGM02015748002;313;16;\N;Calle Mantas 7-8;170.00;true;0;false;0.00;false;0.00;\N;1;0;0;Flat;3;2;High environmental sensitivity;false;true;false;false;3;3;1;0;2;1;1;1;A++;1;0;1;A+;0;0
+AGM02175112001;314;45;\N;c/ Conchita Piquer, 3-17;65.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;2;Medium environmental sensitivity;false;true;true;false;1;1;0;1;0;0;1;1;A+;1;1;0;0;0;0
+AGM01331556002;316;13;\N;Plazaolicia Local 1 esc 2 pta 13;130.00;true;\N;false;0.00;false;0.00;\N;\N;\N;\N;Flat;2;4;Medium environmental sensitivity;false;true;true;false;2;1;0;1;1;1;1;1;A;1;0;1;B;1;0
+AGM02182165001;317;35;\N;Bernat Descoll 63, pta. 15;115.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;4;Medium environmental sensitivity;false;true;true;false;2;2;0;1;0;0;1;1;A++;1;0;0;0;0;0
+AGM01082429001;318;27;\N;general barroso;89.00;true;1;false;0.00;false;0.00;\N;2;0;0;Flat;2;2;Medium environmental sensitivity;false;false;true;false;2;2;0;0;2;1;1;1;A++;1;0;1;A++;1;0
+AGM01683220001;321;18;\N;azagador de las monjas, 1 dup, 15;101.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;2;Medium environmental sensitivity;false;false;true;false;2;2;0;1;1;0;1;1;A;0;0;0;0;0;0
+AGM02015748001;322;14;\N;Calle Mantas 7-8;170.00;true;0;false;0.00;false;0.00;\N;0;1;0;Flat;3;2;High environmental sensitivity;false;false;false;false;3;3;1;0;3;0;1;1;A++;1;0;0;0;0;0
+AGM02224610001;323;40;\N;Avenida Medico Vicente Torrent 12, 17;100.00;true;0;false;0.00;false;0.00;\N;0;0;2;Flat;2;2;High environmental sensitivity;false;false;false;false;2;4;0;1;1;1;1;1;A+;1;0;1;A+;1;1
+AGM02035982002;325;\N;\N;Mauro Guillen 6 pta12;90.00;false;0;false;0.00;false;0.00;\N;0;0;2;Flat;2;2;Medium environmental sensitivity;false;true;true;false;2;2;0;1;1;1;1;1;A+;1;1;1;A+;1;0
+AGM02070939001;328;80;\N;Corona, 2;75.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;1;Low environmental sensitivity;false;false;true;false;1;1;0;1;0;0;1;1;B;0;0;0;0;0;0
+AGM02239231001;329;11;\N;Pintor Maella, 32;110.00;true;2;false;0.00;false;0.00;\N;0;0;2;Flat;2;2;High environmental sensitivity;false;false;false;false;2;2;1;1;0;1;1;1;A++;0;0;1;A++;0;0
+AGM02176020001;331;\N;\N;\N;\N;\N;0;\N;\N;\N;\N;\N;1;0;0;\N;\N;3;Medium environmental sensitivity;\N;\N;\N;\N;2;2;0;0;1;0;1;1;A;1;1;0;0;0;0
+AGM02079825001;334;43;\N;Camí de Montcada, 70 pta 10;83.00;true;0;false;0.00;false;0.00;\N;0;0;0;Single Family;1;1;Medium environmental sensitivity;false;false;false;false;1;1;0;1;0;0;1;1;A+;0;1;0;0;0;0
+AGM02027037001;335;15;\N;AV.BURJASSOT, 119-19;90.00;true;0;false;0.00;false;0.00;\N;0;2;0;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;2;0;0;2;0;1;1;A+++;1;0;0;0;0;0
+AGM02027996001;337;13;\N;Pintor Ferrer Calatayud, 6, 2-B;103.00;true;1;false;0.00;false;0.00;\N;0;0;1;Flat;2;2;Medium environmental sensitivity;false;false;true;false;2;4;0;0;2;1;1;1;A+++;1;1;1;A++;1;1
+AGM02041555001;338;30;\N;C/ Mariano de Cavia, 43-27;80.00;true;0;false;0.00;false;0.00;\N;0;0;1;Flat;1;2;Medium environmental sensitivity;false;\N;\N;\N;1;1;0;1;0;1;0;0;0;0;0;1;A++;1;0
+AGM02175112002;339;35;\N;Av. Portugal, 3-11;100.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;2;Medium environmental sensitivity;false;true;true;false;2;1;0;1;1;1;1;1;A+++;1;1;1;A+;1;1
+AGM01710469001;340;17;\N;C/ Fuencaliente, 10C-pta.5;70.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;3;0;1;0;0;1;1;A;1;0;0;0;0;0
+AGM02292302001;341;25;\N;calle poeta josep cervera y grifoll no2-1;85.00;false;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;2;Medium environmental sensitivity;false;false;false;false;2;2;0;1;0;1;1;1;A+;1;0;1;A+;1;0
+AGM02209006001;342;40;\N;avd Malvarrosa, 117, 4;100.00;true;1;false;0.00;false;0.00;\N;0;0;0;Flat;1;1;High environmental sensitivity;false;false;true;false;1;1;0;1;0;1;1;1;A+++;1;1;1;A+++;1;1
+AGM02036258001;343;15;\N;avenida valladolid 2;90.00;true;0;false;0.00;false;0.00;\N;0;1;1;Flat;2;2;High environmental sensitivity;false;false;false;false;2;2;0;0;2;1;1;1;A+++;1;1;1;A+++;1;0
+AGM02247438001;344;40;\N;C/Ramón Gordillo, 3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+AGM02079896001;345;100;\N;Calle Padre Jofré 13-6;65.00;false;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;1;High environmental sensitivity;false;false;false;false;1;2;0;1;0;1;1;1;A+;0;0;1;A+;0;0
+AGM02338258001;348;40;\N;litógrafo pascual i abad 15 pta4;110.00;true;0;false;0.00;false;0.00;\N;1;1;0;Flat;2;4;High environmental sensitivity;false;true;true;false;2;2;0;1;1;0;1;1;A+;0;0;0;0;0;0
+AGM02236869001;349;29;\N;Arquitecto Segura de Lago, 7;76.00;true;0;false;0.00;false;0.00;\N;2;0;0;Flat;2;2;Medium environmental sensitivity;false;false;true;false;2;3;0;1;1;0;1;1;A+++;1;1;0;0;0;0
+AGM01743536001;350;40;\N;Santos Justo y Pastor 13-19;140.00;true;1;false;0.00;false;0.00;\N;0;2;0;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;2;0;1;0;1;1;1;A+++;1;1;1;A++;1;0
+AGM01230968001;351;30;\N;Fray Pedro Vives, 15-9a;90.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;5;Medium environmental sensitivity;false;false;false;false;2;2;0;1;1;1;1;1;A++;1;1;1;A++;1;1
+AGM02091404001;352;10;\N;Calle Doctor Ferran 9, piso 3, puerta 5;70.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;1;Medium environmental sensitivity;false;false;false;false;2;3;0;2;0;1;1;1;0;1;0;1;0;1;0
+AGM02061625006;354;10;\N;\N;250.00;true;1;false;0.00;false;0.00;\N;0;1;0;Single Family;3;2;High environmental sensitivity;false;false;false;false;3;3;0;0;2;1;1;1;A+++;1;1;1;A+++;1;1
+AGM02215172001;355;20;\N;Julian Pena 12;90.00;false;1;false;0.00;false;0.00;\N;0;0;0;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;2;0;0;2;0;1;1;A++;1;1;0;0;0;0
+AGM02154834002;356;60;\N;Pavia;90.00;false;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;2;Medium environmental sensitivity;false;true;true;false;1;3;0;1;0;0;1;1;;1;0;0;0;0;0
+AGM01587906001;358;20;\N;\N;100.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;2;High environmental sensitivity;false;false;false;false;1;1;0;0;2;1;1;1;A+++;1;0;1;A+;1;0
+AGM02058237001;359;40;\N;PLAZA HONDURAS 26, 6, 42;70.00;false;1;false;0.00;false;0.00;\N;0;0;0;Flat;1;2;High environmental sensitivity;false;true;true;false;1;1;0;1;0;1;1;1;A+;1;0;1;A+;1;0
+AGM02031399001;361;13;\N;C/ Sellent 3-11;100.00;false;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;3;0;1;0;1;1;1;A;1;0;1;A;1;0
+AGM02017083001;364;46;\N;Sierra Martes,10 pta 15;79.00;true;0;false;0.00;false;0.00;\N;0;1;0;Flat;1;1;High environmental sensitivity;false;true;true;false;1;2;0;1;0;1;1;1;A;1;1;1;A+;1;1
+AGM02038368001;366;12;\N;Porta Coeli;75.00;true;0;false;0.00;false;0.00;\N;0;0;1;Flat;2;2;High environmental sensitivity;false;true;true;false;2;2;1;1;0;1;1;1;B;1;1;1;A;1;0
+AGM02161874001;368;50;\N;pasaje dr bartual moret4,1,1;100.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;2;Low environmental sensitivity;false;true;true;false;0;0;0;0;0;1;1;1;A++;0;1;1;A++;1;0
+AGM01256946002;370;40;\N;El Bachiller 1;160.00;true;0;false;0.00;false;0.00;\N;0;3;1;Flat;2;2;Low environmental sensitivity;false;false;false;false;2;3;0;2;1;1;1;1;A+++;1;1;1;A+;1;1
+AGM02335711001;373;50;\N;Calle LLuis Santangel;160.00;true;1;false;0.00;false;0.00;\N;1;0;0;Flat;2;3;High environmental sensitivity;false;true;true;true;2;1;0;1;1;0;1;1;A++;1;1;0;0;0;0
+AGM02006003001;378;48;\N;Avda. de la Plata 3-29;50.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;2;High environmental sensitivity;false;true;true;false;1;1;0;0;1;1;1;1;A++;1;1;1;A+++;1;1
+AGM02064223003;381;35;\N;BARON DE PATRAIX;90.00;true;0;false;0.00;false;0.00;\N;0;1;1;Flat;2;2;Medium environmental sensitivity;false;true;false;false;2;4;0;1;1;0;1;1;A+++;1;1;0;0;0;0
+AGM02155921001;382;50;\N;milagrosa, 34;90.00;true;1;false;0.00;false;0.00;\N;0;0;0;Flat;1;2;Medium environmental sensitivity;false;true;true;false;1;1;0;1;1;0;1;1;A+;1;0;0;0;0;0
+AGM02130909001;384;48;\N;Manuel Simó, 43-10;90.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;1;Medium environmental sensitivity;false;false;false;false;1;2;0;1;0;0;1;1;;0;0;0;0;0;0
+AGM02149690001;385;70;\N;\N;75.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;1;High environmental sensitivity;false;true;false;false;1;1;0;0;1;1;1;1;A+;1;1;1;B;1;1
+AGM01013095002;386;9;\N;Escultor Ricart Boix no 14 pta 6 ;150.00;true;0;false;0.00;false;0.00;\N;2;0;0;Flat;1;2;Medium environmental sensitivity;false;false;false;false;2;2;1;1;0;1;1;1;A+;1;1;1;A+;1;1
+AGM01719785001;387;16;\N;Avenida Constitución;90.00;true;0;false;0.00;false;0.00;\N;1;0;0;Flat;2;2;Medium environmental sensitivity;false;true;false;false;2;2;0;0;2;0;1;1;A+;1;0;0;0;0;0
+AGM01563268001;389;35;\N;Calle Profesor Blanco, 22 pta 14;90.00;true;0;false;0.00;false;0.00;\N;1;1;0;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;2;0;2;0;1;1;1;A++;1;0;1;A++;1;0
+AGM01706533001;390;16;\N;Plaza Ascensión Chirivella;100.00;true;0;false;0.00;false;0.00;\N;0;1;0;Flat;2;2;Medium environmental sensitivity;false;false;true;false;2;2;0;0;2;1;1;1;A+++;1;1;1;A++;1;1
+AGM02201806001;392;80;\N;Calle Juan de Celaya 23, Pta 7;65.00;false;0;false;0.00;false;0.00;\N;0;0;0;Single Family;1;2;Medium environmental sensitivity;false;\N;\N;\N;1;2;0;1;0;0;1;1;A++;0;0;0;0;0;0
+AGM01144418006;395;50;\N;Salabert, 3;90.00;true;0;false;0.00;false;0.00;\N;2;0;0;Flat;1;2;High environmental sensitivity;false;false;false;false;1;1;0;1;0;1;1;1;A+;1;0;1;A++;1;0
+AGM02054877001;398;12;\N;Valencia;90.00;true;0;false;0.00;false;0.00;\N;0;1;1;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;2;1;1;0;1;1;1;A+;0;1;1;A+;0;0
+AGM02244222001;400;35;\N;Avda La Constitución 247;75.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;4;Medium environmental sensitivity;false;true;false;false;4;4;0;4;0;0;1;1;A+++;1;0;0;0;0;0
+AGM02071771001;404;20;\N;C/ Asturias, 57-4Âa;100.00;false;0;false;0.00;false;0.00;\N;0;1;1;Flat;2;2;High environmental sensitivity;false;\N;\N;\N;2;4;0;1;1;1;1;1;A+++;1;1;1;A+;1;1
+AGM01030731002;405;50;\N;calle serranos ;70.00;false;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;2;Low environmental sensitivity;false;false;false;false;1;1;0;1;0;1;1;1;A++;1;1;1;A+++;1;0
+AGM01272082001;406;28;\N;Santa Cruz de la Zarza, 5,1?,1?;90.00;true;0;false;0.00;false;0.00;\N;1;0;0;Flat;2;3;Medium environmental sensitivity;false;false;false;false;2;3;0;0;2;1;1;1;A+++;1;0;1;A+++;1;0
+AGM02042579001;409;38;\N;\N;132.00;true;0;false;0.00;false;0.00;\N;1;0;0;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;2;0;2;0;1;1;1;C;1;1;1;A;1;1
+AGM02023028002;410;34;\N;Calle Aben al Abbar número 4 piso 2 puerta 10;90.00;false;1;false;0.00;false;0.00;\N;1;1;0;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;2;0;2;0;1;1;1;A+++;1;0;1;A++;1;0
+AGM02162598002;411;9;\N;mariano brull 6;80.00;false;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;2;High environmental sensitivity;false;false;false;false;2;2;0;1;0;0;1;1;A+++;1;0;0;0;0;0
+AGM01739935001;412;\N;\N;\N;140.00;false;0;false;0.00;true;\N;\N;2;1;0;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;2;0;1;1;1;1;1;A+;1;1;1;A+;1;1
+AGM02241881001;413;50;\N;calle ángel guimerá 38-9;80.00;true;2;false;0.00;false;0.00;\N;0;0;0;Flat;2;1;High environmental sensitivity;false;false;false;false;2;2;1;1;0;1;1;1;A++;1;0;1;A++;1;1
+AGM01006538001;416;40;\N;Ceramista Ros 11;90.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;3;0;1;0;1;1;1;A++;1;0;1;A+++;1;1
+AGM02033471001;417;2004;\N;Avda Alfahuir 41 M9;109.00;true;0;false;0.00;false;0.00;\N;0;2;0;Flat;2;2;Low environmental sensitivity;false;false;true;false;2;2;0;1;1;1;1;1;A+;1;1;1;A;1;1
+AGM01541606001;418;38;\N;CALLE CALVO ACACIO, 29-9;125.00;true;0;false;0.00;false;0.00;\N;1;0;0;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;3;0;0;1;0;1;1;A++;1;0;0;0;0;0
+AGM01203530001;419;10;\N;Sant Vicent de Paul 32, 5;110.00;true;0;true;100.00;true;170.00;\N;0;0;0;Single Family;2;3;High environmental sensitivity;false;false;true;false;2;2;0;1;1;1;1;1;A+++;1;1;1;A;1;1
+AGM01684496002;420;6;\N;C/ Barraques de Llacer 3, No 4, pta. 67;39.00;false;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;1;Medium environmental sensitivity;false;false;false;false;1;1;0;1;0;0;1;1;A;0;0;0;0;0;0
+AGM02197500001;421;90;\N;maestro aguilar 26/2;53.00;false;0;false;0.00;false;0.00;\N;0;1;0;Flat;1;2;Medium environmental sensitivity;false;false;false;false;0;0;0;0;0;0;1;1;A++;0;0;0;0;0;0
+AGM02063485001;422;11;\N;C/ músico penella;90.00;true;0;true;20.00;false;0.00;\N;0;0;1;Flat;2;2;Medium environmental sensitivity;false;false;true;false;2;4;1;1;0;1;1;1;A+;1;0;1;A+;1;1
+AGM02136486001;424;50;\N;Avenida Burjasot 26, 5;78.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;2;Medium environmental sensitivity;false;false;false;false;1;1;0;0;1;1;1;1;A;0;1;1;A;1;1
+AGM02173184002;425;10;\N;avenida de burjasot;150.00;false;0;false;0.00;false;0.00;\N;0;2;1;Flat;3;2;Medium environmental sensitivity;false;false;false;false;3;4;0;1;1;1;1;1;A+++;1;0;1;A+++;1;0
+AGM02308865001;429;1996;\N;Carrera Malilla 77D, 14;100.00;false;0;false;0.00;false;0.00;\N;0;0;0;Single Family;2;2;High environmental sensitivity;false;true;false;false;2;2;0;0;2;1;1;1;0;0;0;1;0;0;0
+AGM02280096001;430;65;\N;Av. Regne de Valencia, 53;90.00;false;1;false;0.00;false;0.00;\N;0;0;3;Flat;2;2;Medium environmental sensitivity;false;false;true;false;2;3;0;1;1;1;1;1;B;0;0;1;A+;1;0
+AGM01192285001;436;25;\N;C/ AGULLENT, 5;90.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;2;Medium environmental sensitivity;false;false;false;false;1;2;0;1;0;1;1;1;A+;0;0;1;A+;0;0
+AGM01108159001;441;100;\N;En Bou, 5-2;200.00;false;0;false;0.00;false;0.00;\N;7;0;0;Flat;1;9;Medium environmental sensitivity;false;\N;\N;\N;2;2;0;0;1;1;1;1;A++;1;0;1;A+++;1;0
+AGM02079332001;444;22;\N;c/ Almirante Cruilles, 13;90.00;true;1;false;0.00;false;0.00;\N;2;0;0;Flat;2;4;High environmental sensitivity;false;true;true;false;2;4;0;0;2;1;1;1;A+++;1;0;1;A+++;1;0
+AGM01652554002;449;48;\N;Avenida Primado Reig 127;80.00;false;2;false;0.00;false;0.00;\N;\N;\N;\N;Flat;2;3;High environmental sensitivity;false;false;false;false;3;1;0;3;1;1;1;1;A+++;1;0;1;A++;1;0
+AGM01096691001;451;61;\N;Venerable Agnesio;70.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;2;High environmental sensitivity;false;true;false;false;1;1;0;0;1;0;1;1;A;1;1;0;0;0;0
+AGM02326010001;455;2;\N;\N;100.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;1;High environmental sensitivity;false;true;true;false;2;2;0;1;1;0;1;1;A+++;1;0;0;0;0;0
+AGM02346256001;458;51;\N;Maestro Asensi, 4 pta.41;60.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;1;High environmental sensitivity;false;false;true;false;1;1;0;1;0;1;1;1;A++;0;0;1;A+++;1;0
+AGM02042112001;461;35;\N;14;110.00;true;0;false;0.00;false;0.00;\N;0;2;0;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;2;0;0;2;0;1;1;A++;1;0;0;0;0;0
+AGM02128001002;462;25;\N;Benisuera 3, 5;80.00;false;0;false;0.00;false;0.00;\N;1;0;0;Flat;1;1;Medium environmental sensitivity;false;\N;\N;\N;1;1;0;0;1;1;1;1;A+++;1;1;1;A+++;1;1
+AGM01352778001;464;50;\N;Fortaleny;69.00;true;2;false;0.00;false;0.00;\N;1;1;0;Single Family;1;2;High environmental sensitivity;false;true;true;false;1;1;0;1;0;1;1;1;0;1;0;1;A+++;1;0
+AGM02060531001;465;50;\N;Avda. Del Puerto 178 5-10;77.00;false;0;false;0.00;false;0.00;\N;3;1;0;Flat;2;2;Medium environmental sensitivity;false;false;true;false;2;2;0;1;1;1;1;1;A+++;1;0;1;A++;1;0
+AGM02050693002;469;11;\N;Musico Penella, 3 - 5;90.00;true;1;false;0.00;false;0.00;\N;1;1;0;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;3;0;1;2;1;1;1;A++;1;1;1;A++;1;0
+AGM02078377001;470;1997;\N;avenida de las ferias 12 8;50.00;true;0;false;0.00;false;0.00;\N;0;0;1;Flat;1;2;High environmental sensitivity;false;false;false;false;1;2;1;1;0;0;1;1;A;1;0;0;0;0;0
+AGM01622623001;472;20;\N;Rodríguez de Cepeda 48-25;140.00;false;0;false;0.00;false;0.00;\N;1;0;0;Other;2;4;Medium environmental sensitivity;true;false;true;true;2;2;0;1;1;1;1;1;A+++;1;1;1;A++;1;1
+AGM01730821002;477;16;\N;\N;99.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;1;High environmental sensitivity;false;false;false;false;2;2;0;0;2;0;1;1;E;0;0;0;0;0;0
+AGM02268329001;478;33;\N;c/finestrat;100.00;true;0;false;0.00;false;0.00;\N;1;0;0;Flat;1;2;Medium environmental sensitivity;false;false;false;false;1;1;0;1;0;0;1;1;A++;1;0;0;0;0;0
+AGM02150997002;480;5;\N;Calle Rio Segre, 29;70.00;true;2;false;0.00;false;0.00;\N;0;0;0;Flat;2;2;High environmental sensitivity;false;false;false;false;2;2;0;1;1;1;1;1;A;1;0;1;A;1;0
+AGM02362203001;483;50;\N;C/ BELLUS 6;70.00;false;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;1;Medium environmental sensitivity;false;true;true;false;1;1;0;0;1;1;1;1;0;1;0;1;0;0;0
+AGM02326645001;485;37;\N;Avenida Hermanos Maristas 9, 29;112.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;1;Medium environmental sensitivity;false;false;false;false;2;3;0;1;1;0;1;1;A+++;1;1;0;0;0;0
+AGM02317985001;486;51;\N;Avenida Cardenal Benlloch;72.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;1;Low environmental sensitivity;false;false;false;false;1;2;0;1;0;0;1;1;A+++;1;0;0;0;0;0
+AGM02315808001;487;18;\N;Benimodo, 40 pta. 6;86.00;true;2;false;0.00;false;0.00;\N;1;1;0;Flat;2;1;Medium environmental sensitivity;false;false;false;false;2;2;0;0;2;1;1;1;A+++;1;1;1;0;1;0
+AGM02061468001;489;55;\N;Paseo de la Pechina, 59-5a;88.00;true;2;false;0.00;false;0.00;\N;0;0;0;Flat;1;2;High environmental sensitivity;false;true;false;false;1;1;0;1;0;1;1;1;A++;1;0;1;A++;1;0
+AGM02352630001;491;39;\N;C/Reverendo José María Pinazo, 29, pta 6;67.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;1;Medium environmental sensitivity;false;false;true;false;1;1;0;1;0;1;1;1;A;1;0;1;A++;1;0
+AGM02366499001;493;6;\N;Camino Cabanal 30-2o-4a;75.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;3;1;1;0;0;1;1;A+++;1;1;0;0;0;0
+AGM02354987001;494;30;\N;Av. Gaspara Aguilar;100.00;true;1;false;0.00;false;0.00;\N;1;0;0;Flat;2;3;Medium environmental sensitivity;false;false;false;false;2;2;0;2;0;0;1;1;A++;1;0;0;0;0;0
+AGM02337981001;496;50;\N;Padre Urbano 22;70.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;1;Medium environmental sensitivity;false;false;true;false;1;1;0;1;0;0;1;1;A+;1;0;0;0;0;0
+AGM02041230001;500;50;\N;CLARIANO, 35, 36;90.00;true;1;false;0.00;false;0.00;\N;0;1;2;Flat;2;2;Medium environmental sensitivity;false;true;true;false;2;4;2;2;2;1;1;1;A+++;1;1;1;A++;1;1
+AGM02355540001;502;40;\N;Pasaje Doctor Bartual Moret;97.00;true;0;false;0.00;false;0.00;\N;2;1;0;Flat;2;2;Low environmental sensitivity;false;false;false;false;2;4;0;1;1;1;1;1;A+;0;0;1;A+;0;0
+AGM02186866001;504;11;\N;Calle Antonio Suarez, Valencia;92.00;true;0;false;0.00;false;0.00;\N;0;0;1;Flat;2;2;High environmental sensitivity;false;true;false;false;2;3;0;1;1;1;1;1;A++;1;0;1;A+++;1;0
+AGM02330722001;505;23;\N;C/Del Foc, 3-4;110.00;true;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;3;0;2;0;1;1;1;A++;1;0;1;A++;1;0
+AGM02011433001;506;\N;\N;\N;\N;\N;0;\N;\N;\N;\N;\N;1;0;0;\N;\N;2;Medium environmental sensitivity;\N;\N;\N;\N;2;3;0;2;1;1;1;1;A++;1;0;1;A++;1;0
+AGM02101709001;507;29;\N;Fray Luis Colomer, 8-21;90.00;true;0;false;0.00;false;0.00;\N;0;0;1;Flat;2;2;Medium environmental sensitivity;false;false;true;false;2;2;0;0;2;1;1;1;A;1;1;1;A;1;1
+AGM02364698001;509;60;\N;C\Ruzafa 23 - 5;180.00;true;0;false;0.00;false;0.00;\N;0;0;2;Flat;2;2;High environmental sensitivity;false;false;false;false;2;3;0;2;1;1;1;1;A+++;1;1;1;A+;1;1
+AGM02035737001;510;12;\N;Avda. Francia;75.00;false;0;false;0.00;false;0.00;\N;0;0;0;Flat;2;1;High environmental sensitivity;false;true;true;false;2;3;0;0;2;1;1;1;A+;1;0;1;A+;1;0
+AGM02290790001;512;6;\N;Carrer dels Astronautas 1, 70;87.00;true;1;false;0.00;false;0.00;\N;0;0;3;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;2;0;0;1;0;1;1;A;0;0;0;0;0;0
+AGM02026863002;515;14;\N;JORGE COMIN;140.00;true;0;false;0.00;false;0.00;\N;1;2;0;Flat;3;2;High environmental sensitivity;false;true;true;false;3;3;0;1;1;1;1;1;0;0;0;1;0;1;1
+AGM02091018001;516;12;\N;Alfred Toran i Olmos, 3 bajo ;100.00;false;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;2;Medium environmental sensitivity;false;\N;\N;\N;1;1;0;1;0;0;1;1;A+++;1;0;0;0;0;0
+AGM01728414001;518;20;\N;monjas de santa catalina 4 pta 5;11.00;true;0;false;0.00;false;0.00;\N;1;0;0;Flat;2;2;Medium environmental sensitivity;false;false;false;false;2;3;0;1;1;1;1;1;A++;1;1;1;A++;1;1
+AGM02076897001;521;60;\N;calle arquitecto Tolsá 13 - 9a;65.00;true;0;false;0.00;false;0.00;\N;0;0;2;Flat;1;2;High environmental sensitivity;false;false;false;false;1;1;0;1;0;1;1;1;A;1;0;1;A;1;0
+AGM02275858001;523;40;\N;ebanista Caselles,1 p8;90.00;false;0;false;0.00;false;0.00;\N;0;0;0;Flat;1;2;High environmental sensitivity;false;false;false;false;1;2;0;0;1;1;1;1;A+++;1;0;1;A++;1;0
+AGM01352851001;525;80;\N;Fortaleny 25;69.00;true;2;false;0.00;false;0.00;\N;1;1;0;Single Family;1;2;High environmental sensitivity;false;false;true;false;1;1;0;1;0;1;1;1;A+;1;0;1;A++;0;0

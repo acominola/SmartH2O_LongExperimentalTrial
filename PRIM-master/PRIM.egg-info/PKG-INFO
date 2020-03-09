@@ -1,0 +1,22 @@
+Metadata-Version: 1.1
+Name: PRIM
+Version: 0.2
+Summary: Patient Rule Induction Method for Python
+Home-page: https://github.com/Project-Platypus/PRIM
+Author: David Hadka
+Author-email: dhadka@users.noreply.github.com
+License: GNU GPL version 3
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
